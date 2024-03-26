@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻What am I doing?</h3>
 
 ###
-
-<p align="left">💡  I like to explore new technologies and develop software solutions.<br>🎓  I'm currently studying software engineering.<br>🌱  I'm on track for learning more about Artificial Intelligence, Systems Design.<br>✍️  In my free time, I pursue Graphic Design.<br>💬  Feel free to reach out to me for   volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at asem8eladl@gmail.com! I'll try to respond as soon as I can.</p>
+<h3 align="left">👨🏻‍💻What am I doing?</h3>
+<p align="left">
+  💡  I like to explore new technologies and develop software solutions.<br>🎓  I'm currently studying software engineering.<br>🌱  I'm on track for learning more about Artificial Intelligence, Systems Design.<br>✍️  In my free time, I pursue Graphic Design.<br>💬  Feel free to reach out to me for   volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at asem8eladl@gmail.com! I'll try to respond as soon as I can.</p>
 
 ###
 
