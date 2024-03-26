@@ -48,14 +48,14 @@
 
 <div align="lef">
 <h3 align="lef">🔗 Connect With Me</h3>
-  <a href="https://www.facebook.com/Asem8eladl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="35" alt="facebook logo"  />
+  <a href="https://www.facebook.com/Asem8eladl/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/asemeladll/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=instagram" , width="52" height="32"  />
+  <a href="https://www.instagram.com/asemeladll/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/asem-hosam-a47aa0241/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/asem-hosam-a47aa0241/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
