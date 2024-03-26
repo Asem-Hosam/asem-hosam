@@ -34,7 +34,7 @@
 
 <h3 align="left">🧬 Technologies that I know</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github, ,cs,cpp,   ,flutter,dart,firebase  ,js,ts,react,  ,ps,ai,ae,figma, ,html,css,bootstrap, ,nodejs,express,npm, ,mysql,mongodb,sqlite,sequelize,	   " />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,cpp,flutter,dart,firebase,js,ts,react,ps,ai,ae,figma,html,css,bootstrap,nodejs,express,npm,mysql,mongodb,sqlite,sequelize" />
 </div>
 
 
