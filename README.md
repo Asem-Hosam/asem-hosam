@@ -28,11 +28,11 @@
 
 ###
 
-<h3 align="left">🧬 Technologies that I know</h3>
 
 ###
 
 <div align="center">
+<h3 align="left">🧬 Technologies that I know</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -74,13 +74,13 @@
 
 ###
 
-<h3 align="center">🔗 Connect With Me</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
+<h3 align="center">🔗 Connect With Me</h3>
   <a href="https://www.facebook.com/Asem8eladl/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
