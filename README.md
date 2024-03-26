@@ -1,10 +1,12 @@
-<h1 align="left">Hi , I'm Asem 👋</h1>
+<h1 align="left">Hi , I'm Asem <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" , width="35"> </img></h1>
 
 ###
 
 <h3 align="center">A freelance developer and also an software engineering student.</h3>
 
-###
+<div align="center" >
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG54YmJkMzB4dmtzMmwzeXJqcGgwYmdwYWVoM244b2NoMjVzcTZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif"> </img>
+</div>
 
 
 ###
@@ -17,7 +19,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
 <h3 align="left">⚙️  GitHub Analytics</h3>
@@ -33,8 +34,10 @@
 
 <div align="center">
 <h3 align="left">🧬 Technologies that I know</h3>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github, ,cs,cpp,   ,flutter,dart,firebase  ,js,ts,react,  ,ps,ai,ae,figma, ,html,css,bootstrap, ,nodejs,express,npm, ,mysql,mongodb,sqlite,sequelize,	   " />
 </div>
+
+
 
 ###
 
@@ -46,13 +49,13 @@
 <div align="center">
 <h3 align="center">🔗 Connect With Me</h3>
   <a href="https://www.facebook.com/Asem8eladl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/asemeladll/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/asem-hosam-a47aa0241/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
