@@ -46,8 +46,8 @@
 
 <br clear="both">
 
-<div align="center">
-<h3 align="center">🔗 Connect With Me</h3>
+<div align="lef">
+<h3 align="lef">🔗 Connect With Me</h3>
   <a href="https://www.facebook.com/Asem8eladl/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="35" alt="facebook logo"  />
   </a>
